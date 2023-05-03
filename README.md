@@ -1,4 +1,4 @@
-Landing page: https://jeffersonsilemen.github.io/paginaDeCaptura/ <br>
+Landing page: https://jeffersonsilemen.github.io/paginaDeConteudo/ <br>
 Skils: <br>
 -HTML <br>
 -CSS <br>
